@@ -1,1 +1,5 @@
-*I wonder if the README.md is rendered here too? I hope so, so that I can make a course page here.*
+## SGJL 01 - Remembering the Hiragana
+
+#### Using this course in Anki
+
+**TODO: update this.**

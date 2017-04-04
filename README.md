@@ -4,13 +4,17 @@ An Anki clone of Nukemarine's "Suggested Guide to Japanese Literacy" memrise cou
 
 Huge credit goes to [Nukemarine](https://www.reddit.com/user/nukemarine) and contributors for their SGJL courses. I just like Anki way more than Memrise, so I made this repo. The only downside is that I won't get updates if the Memrise courses are updated, unless I re-scrape them. Oh well...
 
+Also, I might have to split this repo up depending on how large it gets. This one will stay here as the landing page if I ever do need to do that.
+
 ## Using this repo
 
-**TODO: add instructions here**
+Follow the instructions in each course's `README.md` file. In the general case, though, you will import all of the audio files into your anki data folder, make a new anki deck, and import the data into that deck. The format of those decks are up to you, but I make some suggesetions in each course.
+
+Yes, using anki instead of memrise will always be more work, but in return you get greater control of the format of the cards, the data, and the decks themselves.
 
 ## License
 
-I have no idea what the legality of all this is; Nukemarine took a bunch of info from "Remembering the Hiragana/Katakana/Kanji", "Tae Kim's Japanese Grammar", "Core10k", and others -- and then I came along and stole that.
+I have no idea what the legality of all this is; Nukemarine took a bunch of info from "Remembering the Hiragana/Katakana/Kanji", "Tae Kim's Japanese Grammar", "Core10k", and others -- and then I came along and took that.
 
 It's probably safe to use for personal purposes, but redistribution *(like what I'm doing here...)* might be a little sketchy.
 
