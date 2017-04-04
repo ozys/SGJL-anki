@@ -37,7 +37,7 @@ Each section (Beginner, Intermediate, etc) is expected to require roughly 300-40
 #### Beginner Courses
 
  - SGJL 01
-    - [Remembering the Hiragana](courses/SGJL 01 - Remembering the Hiragana)
+    - [Remembering the Hiragana](./courses/SGJL 01 - Remembering the Hiragana/)
  - SGJL 02
  - SGJL 03
  - SGJL 04
@@ -103,4 +103,4 @@ Each section (Beginner, Intermediate, etc) is expected to require roughly 300-40
 
 ## Nukemarine's SGJL course posting (Memrise version)
 
-[Here](nukemarine-course-posting.md) is a copy of Nukemarine's typical [course posting](https://community.memrise.com/t/course-forum-suggested-guide-for-japanese-literacy-sgjl-course-series/1100) about the SGJL course on Memrise. I've edited the formatting slightly.
+[Here](./nukemarine-course-posting.md) is a copy of Nukemarine's typical [course posting](https://community.memrise.com/t/course-forum-suggested-guide-for-japanese-literacy-sgjl-course-series/1100) about the SGJL course on Memrise. I've edited the formatting slightly.
