@@ -23,13 +23,14 @@ Here's some more resources you might find useful:
 ### Using this course in Anki
 
  - Import the audio files from `audio/` into your Anki media folder (see [this](https://apps.ankiweb.net/docs/manual.html#media18) and [this](https://apps.ankiweb.net/docs/manual.html#files) for help).
- - Create a new note type with fields: "Romaji", "Kana", and "Audio".
+ - Create a new note type with fields: "Sort Order", "Romaji", "Kana", and "Audio".
  - Create two different cards for this note type (see "cards" below).
  - Make a new deck for this course.
+ - In the options for the deck, I suggest selecting "Show cards in order added" so that you get cards in Memrise order. You can opt to show in random order, but you might get words before the hiragana characters themselves.
  - For each deck:
     - Become familiar with the hiragana characters you are about to learn. Watching the videos from above would be a good way to do this, or study them somehow on your own. Make sure you know how to pronounce them and write them with the correct stroke order *(along with the ["dakuten" and "handakuten" variants](https://en.wikipedia.org/wiki/Dakuten)!)*.
 	- Optionally, make a sub-deck to import your cards into. You could also just import them all straight into a single deck when you're ready to study each level.
-	- Import
+	- Import via `File --> Import` - Use the type and deck you just created, fields separated by comma. Fields 1, 2, 3, and 4 should be mapped to Sort Order, Romaji, Kana, and Audio (respectively).
 
 ### Cards
 
