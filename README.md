@@ -37,7 +37,7 @@ Each section (Beginner, Intermediate, etc) is expected to require roughly 300-40
 #### Beginner Courses
 
  - SGJL 01
-    - [Remembering the Hiragana](./courses/SGJL 01 - Remembering the Hiragana/)
+    - [Remembering the Hiragana](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2001%20-%20Remembering%20the%20Hiragana)
  - SGJL 02
  - SGJL 03
  - SGJL 04
