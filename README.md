@@ -2,7 +2,7 @@
 
 An Anki clone of Nukemarine's "Suggested Guide to Japanese Literacy" memrise courses.
 
-Huge credit goes to [Nukemarine](https://www.reddit.com/user/nukemarine) and contributors for their SGJL courses. I just like Anki way more than Memrise, so I made this repo. The only downside is that I won't get updates if the Memrise courses are updated, unless I re-scrape them. Oh well...
+Huge credit goes to [Nukemarine](https://www.reddit.com/user/nukemarine) and contributors for their SGJL courses. I just like Anki way more than Memrise, so I made this repo. The only downside is that I won't get updates if the Memrise courses are updated, unless I re-scrape them, and you won't get updates from either Nukemarine or me if I update this repo. Oh well...
 
 Also, I might have to split this repo up depending on how large it gets. This one will stay here as the landing page if I ever do need to do that.
 
