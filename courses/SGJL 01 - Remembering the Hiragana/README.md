@@ -26,7 +26,7 @@ Maybe I'll upload a complete `.apkg` file of these decks eventually, but for now
 
  - Import the audio files from `audio/` into your Anki media folder (see [this](https://apps.ankiweb.net/docs/manual.html#media18) and [this](https://apps.ankiweb.net/docs/manual.html#files) for help).
  - Create a new note type with fields: "Sort Order", "Romaji", "Kana", and "Audio".
- - Create two different cards for this note type (see "cards" below).
+ - Create three different cards for this note type (see "cards" below).
  - Make a new deck for this course.
  - In the options for the deck, I suggest selecting "Show cards in order added" so that you get cards in Memrise order. You can opt to show in random order, but you might get words before the hiragana characters themselves.
  - For each deck:
@@ -87,6 +87,28 @@ Pronounce<br><br>
 <hr id=answer>
 
 <div style='font-family: Arial; font-size: 28px;'>{{Romaji}}</div>
+<br>
+{{Audio}}
+```
+
+**Card 3 - Front Template**
+
+```
+<div style='font-family: Arial; font-size: 28px;'>Write this audio using hiragana.</div>
+<br>
+{{Audio}}
+<br>
+(press 'r' to replay audio)
+```
+
+**Card 3 - Back Template**
+
+```
+{{FrontSide}}
+
+<hr id=answer>
+
+<div style='font-family: Arial; font-size: 28px;'>{{Kana}}</div>
 <br>
 {{Audio}}
 ```
