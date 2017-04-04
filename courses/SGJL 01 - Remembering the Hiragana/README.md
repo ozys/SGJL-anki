@@ -22,6 +22,8 @@ Here's some more resources you might find useful:
 
 ### Using this course in Anki
 
+Maybe I'll upload a complete `.apkg` file of these decks eventually, but for now here's what you need to do:
+
  - Import the audio files from `audio/` into your Anki media folder (see [this](https://apps.ankiweb.net/docs/manual.html#media18) and [this](https://apps.ankiweb.net/docs/manual.html#files) for help).
  - Create a new note type with fields: "Sort Order", "Romaji", "Kana", and "Audio".
  - Create two different cards for this note type (see "cards" below).
