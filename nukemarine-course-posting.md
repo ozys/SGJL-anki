@@ -4,6 +4,8 @@
 
 Based upon [my original roadmap/guideline to Japanese fluency](http://forum.koohii.com/thread-5110.html) on the RevTK forums, the **Suggested Guide for Japanese Literacy** (SGJL) will be a 48 part series of courses plus supplemental immersion courses that gradually moves students from complete novice to advanced linguist. All courses will attempt to be based upon freely available resources when possible and include native level audio if available. Each major section (basic, intermediate, intermediate/advanced, advanced pt 1, advanced pt 2) is expected to require 300 to 400 hours each of dedicated study and review including immersion courses.
 
+**Disable Memrise Timer** - Due to some of these courses having lengthy sample sentences being learned making timed tests difficult or improssible, the use of a Greasemonkey or Tampermonkey scripts to disable the Memrise Timer is highly recommended. Download it here: http://userscripts-mirror.org/scripts/show/174879
+
 In each of the "levels", choose **one** of the options. *(you can probably choose more than one if you really want, but it might not help too much over just moving up one course number.)*
 
 #### Basic Courses (01 - 12)
