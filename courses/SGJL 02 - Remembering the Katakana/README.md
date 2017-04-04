@@ -18,7 +18,7 @@ Here's some more resources you might find useful:
  - [Hiragana pronunciation from TextFugu](http://www.textfugu.com/season-1/japanese-pronunciation/3-8/)
  - [Hiragana (with dakuten) pronunciation from TextFugu](http://www.textfugu.com/season-1/japanese-pronunciation/3-9/)
  - [Examples of handwritten hiragana](http://nihongo.as.ua.edu/hiragana.htm)
- - [Hiragana wiki page on Wikipedia](https://en.wikipedia.org/wiki/Hiragana) - You can click on each kana to see a stroke order
+ - [Hiragana wiki page on Wikipedia](https://en.wikipedia.org/wiki/Hiragana)
 
 ### Using this course in Anki
 
