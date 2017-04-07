@@ -50,7 +50,6 @@ def get_course(course_id, fileName=False):
                     things.append(tag.get('data-thing-id'))
             levels.append(things)
 
-        output_file = os.path.join('{}.txt'.format(fileName))
         level_counter = 1
         sort_order = 1
         for level in levels:

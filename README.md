@@ -34,7 +34,7 @@ For each SGJL course, choose **ONE** of the available classes. You can choose mo
 
 Each section (Beginner, Intermediate, etc) is expected to require roughly 300-400 hours of dedicated study and review, totaling about 1500-2000 hours of study for the entire SGJL course.
 
-Keep doing a course until you've seen every card in the course, then move on to the next course. Keep on reviewing whatever Anki tells you to review.
+Keep doing a course until you've at least *seen* every card in the course, then move on to the next course. Keep on reviewing whatever Anki tells you to review.
 
 #### Beginner Courses
 
@@ -43,6 +43,7 @@ Keep doing a course until you've seen every card in the course, then move on to 
  - SGJL 02
     - [Remembering the Katakana](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2002%20-%20Remembering%20the%20Katakana)
  - SGJL 03
+    - [Remembering the Kanji + 2001.Kanji.Odyssey (part 1)]() (kanji 1-555)
  - SGJL 04
  - SGJL 05
  - SGJL 06
