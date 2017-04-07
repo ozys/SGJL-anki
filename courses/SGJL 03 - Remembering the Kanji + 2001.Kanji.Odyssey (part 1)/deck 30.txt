@@ -1,0 +1,15 @@
+436,飯,meal
+437,飲,drink
+438,館,Bldg.
+439,平,even
+440,新,new
+441,親,parent
+442,報,report
+443,収,income
+444,熱,heat
+445,術,art
+446,寒,cold
+447,青,blue
+448,請,solicit
+449,情,feelings
+450,晴,clear up

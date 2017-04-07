@@ -1,0 +1,15 @@
+316,保,protect
+317,符,token (not 券)
+318,賃,fare
+319,代,substitute
+320,貸,lend
+321,化,change
+322,花,flower
+323,何,what
+324,荷,baggage
+325,内,inside (not 中)
+326,肉,meat
+327,座,sit (not 席)
+328,以,by means of
+329,似,similar
+330,営,occupation

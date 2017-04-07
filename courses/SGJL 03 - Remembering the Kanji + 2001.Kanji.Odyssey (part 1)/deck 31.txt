@@ -1,0 +1,15 @@
+451,表,surface
+452,割,proportion (not 率)
+453,生,life
+454,性,sex
+455,産,products
+456,春,springtime
+457,実,reality
+458,漢,Sino-
+459,難,difficult
+460,乗,ride
+461,今,now
+462,予,beforehand
+463,野,plains
+464,西,west
+465,価,value (not 値)

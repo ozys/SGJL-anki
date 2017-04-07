@@ -1,0 +1,15 @@
+61,石,stone
+62,器,utensil
+63,川,stream (not 河)
+64,水,water
+65,原,meadow
+66,願,petition
+67,源,source
+68,活,lively
+69,消,extinguish
+70,況,but of course
+71,泊,overnight
+72,土,soil (not 地)
+73,寺,Buddhist temple
+74,時,time
+75,均,level

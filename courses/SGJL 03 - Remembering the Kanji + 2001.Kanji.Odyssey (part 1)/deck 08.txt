@@ -1,0 +1,15 @@
+106,界,world
+107,茶,tea
+108,合,fit
+109,現,present
+110,全,whole
+111,理,logic
+112,主,lord
+113,注,pour
+114,金,gold
+115,道,road-way
+116,造,create
+117,車,car
+118,連,take along
+119,前,in front
+120,各,each

@@ -1,0 +1,15 @@
+391,写,copy
+392,考,consider
+393,教,teach
+394,者,someone
+395,暑,sultry
+396,父,father
+397,交,mingle
+398,効,merit
+399,校,exam
+400,足,leg
+401,路,path
+402,過,overdo
+403,際,occasion
+404,院,Inst.
+405,降,descend

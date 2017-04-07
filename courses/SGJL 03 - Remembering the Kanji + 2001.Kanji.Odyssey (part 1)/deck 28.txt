@@ -1,0 +1,15 @@
+406,階,story (of a building)
+407,空,empty (sky)
+408,究,research
+409,線,line
+410,練,practice
+411,続,continue
+412,絵,picture
+413,絡,entwine
+414,結,tie
+415,終,end
+416,経,sutra
+417,約,promise
+418,後,behind
+419,機,mechanism (not 械)
+420,係,person in charge

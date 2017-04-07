@@ -1,0 +1,15 @@
+136,言,say
+137,計,plot
+138,話,tale
+139,語,word
+140,読,read
+141,調,tune
+142,談,discuss
+143,式,style
+144,試,test
+145,成,turn into
+146,減,dwindle
+147,止,stop
+148,歩,walk
+149,企,undertake
+150,正,correct

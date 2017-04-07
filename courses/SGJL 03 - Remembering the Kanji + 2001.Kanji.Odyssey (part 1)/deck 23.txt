@@ -1,0 +1,15 @@
+331,年,year
+332,夜,night (not 晩, 夕)
+333,施,alms
+334,遊,play
+335,旅,trip
+336,物,thing
+337,屋,roof
+338,局,bureau
+339,遅,slow
+340,昼,daytime
+341,示,show
+342,社,company
+343,禁,prohibition
+344,祭,ritual
+345,察,guess

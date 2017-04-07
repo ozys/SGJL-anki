@@ -1,0 +1,15 @@
+421,御,honorable
+422,服,clothing
+423,通,traffic
+424,危,dangerous
+425,酒,sake
+426,酔,drunk
+427,配,distribute
+428,短,short
+429,温,warm (not 暖)
+430,銀,silver
+431,節,node
+432,限,limit
+433,良,good
+434,娘,daughter
+435,食,eat

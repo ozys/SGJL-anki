@@ -1,0 +1,15 @@
+511,基,fundamentals
+512,無,nothingness
+513,査,investigate
+514,並,row
+515,普,universal
+516,業,profession
+517,共,together
+518,供,submit
+519,異,uncommon
+520,港,harbor
+521,悪,bad
+522,円,circle
+523,角,angle
+524,解,unravel
+525,論,argument

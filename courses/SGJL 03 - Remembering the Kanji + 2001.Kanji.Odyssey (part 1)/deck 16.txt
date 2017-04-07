@@ -1,0 +1,15 @@
+226,提,propose
+227,担,shouldering
+228,接,touch (not 触)
+229,研,polish
+230,械,contraption (not 機)
+231,型,mould
+232,才,genius
+233,材,lumber
+234,存,suppose (not 在)
+235,在,exist (not 存)
+236,更,grow late
+237,友,friend
+238,投,throw
+239,設,establishment
+240,支,branch

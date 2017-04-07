@@ -1,0 +1,15 @@
+121,格,status
+122,客,guest
+123,額,forehead
+124,夏,summer
+125,運,carry
+126,高,tall
+127,京,capital
+128,週,week
+129,売,sell
+130,学,study
+131,覚,memorize
+132,書,write
+133,敗,failure
+134,枚,sheet of
+135,故,happenstance

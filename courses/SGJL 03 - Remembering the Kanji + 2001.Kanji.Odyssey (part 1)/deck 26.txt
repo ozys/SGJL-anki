@@ -1,0 +1,15 @@
+376,半,half
+377,券,ticket (not 符)
+378,勝,victory
+379,不,negative
+380,杯,cupfuls
+381,族,tribe
+382,知,know
+383,帰,homecoming
+384,引,pull
+385,強,strong
+386,弱,weak
+387,費,expense
+388,第,No., # (not 数)
+389,弟,younger brother
+390,号,nickname

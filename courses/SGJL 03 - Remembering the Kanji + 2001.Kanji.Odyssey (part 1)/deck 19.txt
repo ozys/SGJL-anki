@@ -1,0 +1,15 @@
+271,買,buy
+272,規,standard
+273,賛,approve
+274,失,lose
+275,鉄,iron
+276,力,power
+277,男,male
+278,功,achievement
+279,協,co-
+280,行,going
+281,律,rhythm
+282,徒,junior
+283,待,wait
+284,彼,he
+285,役,duty

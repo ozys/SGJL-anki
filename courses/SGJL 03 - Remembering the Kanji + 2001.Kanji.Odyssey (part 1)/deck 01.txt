@@ -1,0 +1,15 @@
+1,一,one
+2,二,two
+3,三,three
+4,四,four
+5,五,five
+6,六,six
+7,七,seven
+8,八,eight
+9,九,nine
+10,十,ten
+11,口,mouth
+12,日,day
+13,月,month
+14,田,rice field
+15,目,eye

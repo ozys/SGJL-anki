@@ -1,0 +1,15 @@
+76,火,fire
+77,点,spot
+78,魚,fish
+79,黒,black
+80,量,quantity
+81,同,same
+82,向,yonder
+83,字,character
+84,完,perfect
+85,安,relax
+86,木,tree
+87,林,grove
+88,森,forest
+89,村,village
+90,相,inter-

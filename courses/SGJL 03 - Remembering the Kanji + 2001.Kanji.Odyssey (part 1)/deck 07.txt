@@ -1,0 +1,15 @@
+91,本,book
+92,案,plan
+93,未,not yet
+94,末,extremity
+95,味,flavor
+96,妹,younger sister
+97,株,stocks
+98,若,young
+99,兆,portent
+100,状,status quo
+101,然,sort of thing
+102,牛,cow
+103,特,special
+104,告,revelation
+105,先,before

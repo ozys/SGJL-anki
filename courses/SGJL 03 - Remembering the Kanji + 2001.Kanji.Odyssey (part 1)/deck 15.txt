@@ -1,0 +1,15 @@
+211,誌,document
+212,思,think
+213,応,apply
+214,意,idea
+215,息,breath
+216,忙,busy
+217,慣,accustomed
+218,憶,recollection
+219,必,invariably
+220,手,hand
+221,義,righteousness
+222,議,deliberation (not 論)
+223,打,strike (not 当)
+224,指,finger
+225,持,hold

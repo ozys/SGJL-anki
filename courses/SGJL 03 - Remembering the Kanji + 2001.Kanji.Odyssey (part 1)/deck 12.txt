@@ -1,0 +1,15 @@
+166,立,stand up
+167,商,make a deal
+168,北,north
+169,毎,every
+170,海,sea
+171,複,duplicate
+172,欠,lack
+173,歌,song
+174,次,next
+175,資,assets
+176,音,sound
+177,暗,darkness
+178,識,discriminating
+179,亡,deceased
+180,方,direction

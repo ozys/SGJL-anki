@@ -1,0 +1,15 @@
+16,古,old
+17,明,bright
+18,品,goods
+19,早,early
+20,世,generation
+21,自,oneself
+22,白,white
+23,百,hundred
+24,中,in
+25,千,thousand
+26,専,specialty
+27,上,above
+28,下,below
+29,朝,morning
+30,員,employee

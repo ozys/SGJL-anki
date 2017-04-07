@@ -1,0 +1,15 @@
+46,丁,street
+47,町,town
+48,可,can
+49,子,child
+50,女,woman
+51,好,fond
+52,母,mama
+53,兄,elder brother
+54,小,little
+55,少,few
+56,大,large
+57,多,many
+58,夕,evening
+59,外,outside
+60,名,name

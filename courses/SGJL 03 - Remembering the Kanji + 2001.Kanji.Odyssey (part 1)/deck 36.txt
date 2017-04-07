@@ -1,0 +1,15 @@
+526,氏,family name
+527,紙,paper
+528,婚,marriage
+529,低,lower
+530,民,people
+531,部,section
+532,都,metropolis
+533,郵,mail
+534,段,grade
+535,航,navigate
+536,般,carrier
+537,船,ship
+538,益,benefit
+539,来,come
+540,気,spirit

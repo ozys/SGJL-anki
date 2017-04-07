@@ -1,0 +1,15 @@
+466,要,need
+467,票,ballot
+468,標,signpost
+469,煙,smoke
+470,南,south
+471,門,gates
+472,問,question
+473,間,interval
+474,簡,simplicity (not 単)
+475,開,open
+476,閉,closed
+477,聞,hear
+478,非,un-
+479,決,decide
+480,違,difference

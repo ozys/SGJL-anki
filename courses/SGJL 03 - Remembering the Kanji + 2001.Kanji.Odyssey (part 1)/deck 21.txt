@@ -1,0 +1,15 @@
+301,答,solution (not 解)
+302,人,person
+303,住,dwell
+304,体,body
+305,仕,attend
+306,他,other
+307,休,rest
+308,信,faith
+309,依,reliant
+310,個,individual
+311,値,price (not 価)
+312,億,hundred million
+313,使,use (not 用)
+314,便,convenience
+315,宿,inn

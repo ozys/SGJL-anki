@@ -1,0 +1,15 @@
+151,証,evidence
+152,定,determine
+153,走,run
+154,題,topic
+155,遠,distant
+156,初,first time
+157,市,market
+158,姉,elder sister
+159,制,system
+160,製,made in...
+161,転,revolve
+162,芸,technique
+163,雨,rain
+164,冬,winter
+165,天,heavens

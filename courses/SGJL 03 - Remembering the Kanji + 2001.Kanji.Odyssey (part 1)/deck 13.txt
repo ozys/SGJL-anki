@@ -1,0 +1,15 @@
+181,脱,undress
+182,説,rumor
+183,増,increase
+184,東,east
+185,歳,year-end
+186,県,prefecture
+187,地,ground
+188,風,wind
+189,記,scribe
+190,電,electricity
+191,家,house
+192,場,location
+193,洋,ocean (not 海)
+194,達,accomplished
+195,差,distinction

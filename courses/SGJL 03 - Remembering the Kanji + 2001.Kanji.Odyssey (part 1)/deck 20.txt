@@ -1,0 +1,15 @@
+286,税,tax
+287,和,harmony
+288,移,shift
+289,秒,second
+290,秋,autumn
+291,私,private
+292,利,profit
+293,季,seasons
+294,米,rice
+295,数,number (not 第)
+296,類,sort (not 然)
+297,様,Esq.
+298,求,request
+299,等,etc.(not 也)
+300,算,calculate

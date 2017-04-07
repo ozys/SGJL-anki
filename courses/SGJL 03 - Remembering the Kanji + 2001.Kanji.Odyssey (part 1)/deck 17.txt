@@ -1,0 +1,15 @@
+241,技,skill
+242,軽,lightly
+243,反,anti-
+244,返,return
+245,販,marketing
+246,菜,vegetable
+247,受,accept
+248,払,pay
+249,広,wide
+250,台,pedestal
+251,始,commence
+252,窓,window
+253,去,gone
+254,法,method
+255,会,meeting

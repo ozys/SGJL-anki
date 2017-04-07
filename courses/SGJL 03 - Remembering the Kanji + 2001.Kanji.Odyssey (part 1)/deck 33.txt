@@ -1,0 +1,15 @@
+481,束,bundle
+482,頼,trust
+483,速,quick
+484,整,organize
+485,険,precipitous
+486,検,examination (not 験)
+487,重,heavy
+488,動,move
+489,働,work
+490,種,species
+491,病,ill
+492,疲,tired
+493,痛,pain
+494,医,doctor
+495,区,ward

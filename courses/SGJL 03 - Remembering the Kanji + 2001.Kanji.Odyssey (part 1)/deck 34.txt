@@ -1,0 +1,15 @@
+496,登,ascend
+497,発,discharge
+498,形,shape
+499,文,sentence
+500,対,vis-a-vis
+501,済,finish
+502,楽,music
+503,薬,medicine
+504,率,ratio (not 割)
+505,英,England
+506,映,reflect
+507,赤,red
+508,変,unusual
+509,色,color
+510,期,period

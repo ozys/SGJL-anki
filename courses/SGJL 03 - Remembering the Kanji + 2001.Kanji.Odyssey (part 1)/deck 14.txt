@@ -1,0 +1,15 @@
+196,着,don
+197,雑,miscellaneous
+198,準,semi-
+199,確,assurance
+200,午,noon
+201,習,learn
+202,曜,weekday
+203,国,country
+204,因,cause
+205,園,park
+206,回,-times
+207,店,store
+208,心,heart
+209,忘,forget
+210,認,acknowledge

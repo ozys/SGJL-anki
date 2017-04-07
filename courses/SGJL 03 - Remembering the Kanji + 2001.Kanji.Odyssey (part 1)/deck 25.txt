@@ -1,0 +1,15 @@
+361,事,matter
+362,満,full
+363,画,brush stroke
+364,歯,tooth
+365,曲,bend
+366,料,fee
+367,科,department
+368,図,map
+369,用,utilize (not 使)
+370,備,equip
+371,昔,once upon a time
+372,借,borrow
+373,席,seat (not 座)
+374,度,degrees
+375,渡,transit

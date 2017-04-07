@@ -1,0 +1,15 @@
+256,室,room
+257,育,bring up
+258,出,exit
+259,山,mountain
+260,入,enter
+261,込,crowded
+262,分,part
+263,公,public
+264,欲,longing
+265,常,usual
+266,残,remainder
+267,死,death
+268,耳,ear
+269,取,take
+270,最,utmost

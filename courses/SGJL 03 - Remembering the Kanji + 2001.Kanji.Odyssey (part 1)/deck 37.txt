@@ -1,0 +1,15 @@
+541,飛,fly
+542,面,mask
+543,番,turn
+544,長,long
+545,単,simple (not 簡)
+546,島,island
+547,暖,warmth (not 温)
+548,晩,nightfall
+549,勉,exertion
+550,験,verification (not 検)
+551,駅,station
+552,能,ability
+553,態,attitude
+554,送,send off
+555,関,connection

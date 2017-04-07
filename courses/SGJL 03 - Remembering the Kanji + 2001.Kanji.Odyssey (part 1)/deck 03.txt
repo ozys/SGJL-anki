@@ -1,0 +1,15 @@
+31,見,see
+32,元,beginning
+33,負,defeat
+34,万,ten thousand
+35,的,bull's eye
+36,直,straightaway
+37,具,tool
+38,真,true
+39,工,craft
+40,左,left
+41,右,right
+42,有,possess
+43,切,cut
+44,則,rule
+45,別,separate
