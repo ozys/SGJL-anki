@@ -39,7 +39,7 @@ Keep doing a course until you've at least *seen* every card in the course, then 
  - SGJL 01: [Remembering the Hiragana](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2001%20-%20Remembering%20the%20Hiragana)
  - SGJL 02: [Remembering the Katakana](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2002%20-%20Remembering%20the%20Katakana)
  - SGJL 03: [Remembering the Kanji + 2001.Kanji.Odyssey (part 1)](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2003%20-%20Remembering%20the%20Kanji%20%2B%202001.Kanji.Odyssey%20(part%201)) (kanji 1-555) -- Unfortunately this isn't the most useful course. See the course README.md.
- - SGJL 04
+ - SGJL 04: [Tae Kim's Japanese Grammar Guide (part 1)](https://github.com/ozys/SGJL-anki/tree/master/courses/SGJL%2004%20-%20Tae%20Kim's%20Japanese%20Grammar%20Guide%20(part%201))
  - SGJL 05
  - SGJL 06
  - SGJL 07
