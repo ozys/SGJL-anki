@@ -1,0 +1,8 @@
+27,誰,who,だれ,[sound:SGJL04_誰.mp3]
+21,うん,yes (casual),うん,[sound:SGJL04_うん.mp3]
+23,ううん,no (casual),ううん,[sound:SGJL04_ううん.mp3]
+25,試験,exam,しけん,[sound:SGJL04_試験.mp3]
+28,私,me; myself; I,わたし,[sound:SGJL04_私.mp3]
+24,今日,today,きょう,[sound:SGJL04_今日.mp3]
+22,明日,tomorrow,あした,[sound:SGJL04_明日.mp3]
+26,でも,but,でも,[sound:SGJL04_でも.mp3]

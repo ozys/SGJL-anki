@@ -1,0 +1,6 @@
+1,人,person,ひと,[sound:SGJL04_人.mp3]
+3,元気,healthy; lively,げんき,[sound:SGJL04_元気.mp3]
+2,学生,student,がくせい,[sound:SGJL04_学生.mp3]
+5,静か,quiet - (na-adj),しずか,[sound:SGJL04_静か.mp3]
+6,友達,friend,ともだち,[sound:SGJL04_友達.mp3]
+4,魚,fish,さかな,[sound:SGJL04_魚.mp3]

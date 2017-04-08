@@ -1,0 +1,6 @@
+86,ボブもする,Bob also do.,ボブもする,[sound:SGJL04_sentence_86.mp3]
+89,猫はいる,There is cat. (lit: As for cat, it exists.),ねこはいる,[sound:SGJL04_sentence_89.mp3]
+84,アリスは食べる,As for Alice, eat.,アリスはたべる,[sound:SGJL04_sentence_84.mp3]
+88,私は買う,As for me, buy.,わたしはかう,[sound:SGJL04_sentence_88.mp3]
+87,お金がある,There is money. (lit: As for money, it exists.),おかねがある,[sound:SGJL04_sentence_87.mp3]
+85,ジムが来る,Jim is the one that comes.,ジムがくる,[sound:SGJL04_sentence_85.mp3]

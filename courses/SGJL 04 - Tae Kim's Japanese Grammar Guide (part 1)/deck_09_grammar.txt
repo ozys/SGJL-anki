@@ -1,0 +1,8 @@
+226,赤いズボンを買う友達はボブだ,Friend who buy red pants is Bob.,あかいボンをかうともだちはボブだ,[sound:SGJL04_sentence_226.mp3]
+222,友達じゃなかったアリスはいい友達になった,Alice who was not a friend, became a good friend.,ともだちじゃなかったアリスはいいともだちになった,[sound:SGJL04_sentence_222.mp3]
+225,ボブはいつも勉強する人だ,Bob is a person who always studies.,ボブはいつもべんきょうするひとだ,[sound:SGJL04_sentence_225.mp3]
+223,先週に医者だったボブは仕事を辞めた,Bob who was a doctor last week quit his job.,せんしゅうにいしゃだったボブはしごとをやめた,[sound:SGJL04_sentence_223.mp3]
+227,晩ご飯を食べなかった人は映画で見た銀行に行った,Person who did not eat dinner went to the bank she saw at movie.,ばんごはんをたべなかったひとはえいがでみたぎんこうにいった,[sound:SGJL04_sentence_227.mp3]
+221,子供だったアリスが立派な大人になった,The Alice that was a child became a fine adult.,こどもだったアリスがりっぱなおとなになった,[sound:SGJL04_sentence_221.mp3]
+220,学生じゃない人は学校に行かない,Person who is not student do not go to school.,がくせいじゃないひとはがっこうにいかない,[sound:SGJL04_sentence_220.mp3]
+224,先週に映画を見た人は誰,Who is person who watched movie last week?,せんしゅうにえいがをみたひとはだれ,[sound:SGJL04_sentence_224.mp3]

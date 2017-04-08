@@ -1,0 +1,6 @@
+95,私は買わない,As for me, not buy.,わたしはかわない,[sound:SGJL04_sentence_95.mp3]
+93,ボブもしない,Bob also does not do.,ボブもしない,[sound:SGJL04_sentence_93.mp3]
+96,猫はいない,There is no cat. (lit: As for cat, does not exist.),ねこはいない,[sound:SGJL04_sentence_96.mp3]
+92,ジムが遊ばない,Jim is the one that does not play.,ジムがあそばない,[sound:SGJL04_sentence_92.mp3]
+94,お金がない,There is no money. (lit: As for money, does not exist.),おかねがない,[sound:SGJL04_sentence_94.mp3]
+91,アリスは食べない,As for Alice, does not eat.,アリスはたべない,[sound:SGJL04_sentence_91.mp3]

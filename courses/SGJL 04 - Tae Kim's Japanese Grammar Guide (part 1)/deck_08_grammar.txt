@@ -1,0 +1,7 @@
+200,部屋を出た,I left room.,へやをでた,[sound:SGJL04_sentence_200.mp3]
+195,電気がついた,The lights turned on.,でんきがついた,[sound:SGJL04_sentence_195.mp3]
+196,電気を消す,Turn off the lights.,でんきをけす,[sound:SGJL04_sentence_196.mp3]
+198,誰が窓を開けた,Who opened the window?,だれがまどをあけた,[sound:SGJL04_sentence_198.mp3]
+194,私が電気をつけた,I am the one that turned on the lights.,わたしがでんきをつけた,[sound:SGJL04_sentence_194.mp3]
+197,電気が消える,Lights turn off.,でんきがきえる,[sound:SGJL04_sentence_197.mp3]
+199,窓がどうして開いた,Why has the window opened?,まどがどうしてあいた,[sound:SGJL04_sentence_199.mp3]

@@ -1,0 +1,8 @@
+82,金,money,かね,[sound:SGJL04_金.mp3]
+78,買う,to buy - (u-verb),かう,[sound:SGJL04_買う.mp3]
+77,いる,to exist (animate) - (ru-verb),いる,[sound:SGJL04_いる.mp3]
+83,猫,cat,ねこ,[sound:SGJL04_猫.mp3]
+80,する,to do - (exception),する,[sound:SGJL04_する.mp3]
+76,食べる,to eat - (ru-verb),たべる,[sound:SGJL04_食べる.mp3]
+79,ある,to exist (inanimate) - (u-verb),ある,[sound:SGJL04_ある.mp3]
+81,来る,to come - (exception),くる,[sound:SGJL04_来る.mp3]

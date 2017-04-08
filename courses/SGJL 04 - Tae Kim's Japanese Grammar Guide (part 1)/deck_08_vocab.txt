@@ -1,0 +1,8 @@
+188,消す,to erase, to turn off power,けす,[sound:SGJL04_消す.mp3]
+187,つく,to be attached, to be turned on (electricity),つく,[sound:SGJL04_つく.mp3]
+189,消える,to disappear, to be turned off (electricity),きえる,[sound:SGJL04_消える.mp3]
+190,開ける,to open (vt),あける,[sound:SGJL04_開ける.mp3]
+193,窓,window,まど,[sound:SGJL04_窓.mp3]
+192,電気,electricity, (electric) light,でんき,[sound:SGJL04_電気.mp3]
+191,開く,to be opened (vi),あく,[sound:SGJL04_開く.mp3]
+186,つける,to attach, to turn on (the lights),つける,[sound:SGJL04_つける.mp3]

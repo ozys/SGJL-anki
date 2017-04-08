@@ -30,8 +30,6 @@ The content that was used in these courses comes mainly from:
 
 ## SGJL-anki Course List
 
-For each SGJL course, choose **ONE** of the available classes. You can choose more than one if you like, but they cover roughly the same material.
-
 Each section (Beginner, Intermediate, etc) is expected to require roughly 300-400 hours of dedicated study and review, totaling about 1500-2000 hours of study for the entire SGJL course.
 
 Keep doing a course until you've at least *seen* every card in the course, then move on to the next course. Keep on reviewing whatever Anki tells you to review.
